@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**FO2704/FO2704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 17-year-old indie iOS developer from Germany 🇩🇪  
+I love building clean, useful, and user-friendly apps in my free time – all with Swift and SwiftUI.
 
-Here are some ideas to get you started:
+## 🚀 My First App on the App Store
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 **[iSchool](https://apps.apple.com/app/idXXXXXXXX)**  
+A modern and intuitive school planner app for iOS.  
+It features a schedule, homework tracker, and many tools designed specifically for students.
+
+## 🔧 Tech Stack & Skills
+
+- Swift, SwiftUI & SwiftData
+- RevenueCat
+- TelemetryDeck
+- Xcode
+- Git & GitHub
+- App Store Deployment
+
+## 🎯 Goals
+
+- Build and release more useful iOS apps
+- Level up my Swift and app development skills
+- Connect with other devs and learn from the community
+
+## 📬 Get in Touch
+
+Want to share feedback, ideas, or just say hi?  
+→ **[Right here on GitHub](https://github.com/fo2704)** or via [Mail](mailto:fo-dev@karsie.de)
+
+---
+
+> "Code is like magic – a few lines can turn into something amazing." ✨
